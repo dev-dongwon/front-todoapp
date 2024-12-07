@@ -12,7 +12,7 @@
     "sinon": "^7.3.2"
   },
   "devDependencies": {
-    "mocha": "^6.1.4",
+    "mocha": "^10.2.0",
     "node-mocks-http": "^1.7.6",
     "nyc": "^14.1.1",
     "request": "^2.88.0"
